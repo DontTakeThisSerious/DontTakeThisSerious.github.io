@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Grinch;
+    src: url("grinch.otf") format("opentype");
+}
+
+body {
+    font-family: Grinch;
+    background-color: #BAFD95;
+}
+
+#demo, h2 {
+  color: red;
+  text-align: center;
+  font-size: 60px;
+}
+
+img {
+  width: 100%;
+}
